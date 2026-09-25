@@ -1,1 +1,3 @@
-soal03
+<?php  
+echo "hello word"
+?>
